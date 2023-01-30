@@ -1,9 +1,12 @@
+import Hero from "./Components/Hero";
+import Navbar from "./Components/Navbar";
 
 
 function App() {
   return (
-    <div className="bg-black w-full">
-     <h1>hey</h1>
+    <div >
+    <Navbar />
+    <Hero />
     </div>
   );
 }
