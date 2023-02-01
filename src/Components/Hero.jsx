@@ -41,7 +41,7 @@ return (
         <div>
             <h1 className='text-4xl'>About short film or art <article></article> </h1>
         </div>
-        <div className='w-1/2'>
+        <div className=' md:w-1/2 max-h-2/3 pr-4'>
         <h1> breif synospsis of the art that was input by the creator to intence viewers Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, est! Dignissimos numquam tenetur dicta blanditiis voluptatum. Recusandae eum fugit consequuntur molestias asperiores quidem debitis cumque ducimus, sint eaque, ipsa corporis.</h1>
         </div>
       <button className='p-2 bg-black w-[100px] rounded-md '> see more </button>
