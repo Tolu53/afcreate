@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className=' w-full sm:w-full bg-green-700'>
+    <div className=' w-full sm:w-full bg-black'>
         <div className='flex flex-col w-full h-auto '>
             <div className='flex  justify-center mb-2 bg-black'>
                 <h1 className='text-4xl text-white justify-center'>AF Create</h1>
